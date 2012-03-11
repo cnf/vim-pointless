@@ -20,4 +20,11 @@ Alternatively, copy ```pointless.vim``` to ```~/.vim/colors```
 
 ## Screenshot
 
-TODO
+### C
+![C](https://github.com/cnf/vim-pointless/raw/master/screenshots/pointless-c.png)
+
+### Python
+![Python](https://github.com/cnf/vim-pointless/raw/master/screenshots/pointless-python.png)
+
+### Ruby
+![Ruby](https://github.com/cnf/vim-pointless/raw/master/screenshots/pointless-ruby.png)
