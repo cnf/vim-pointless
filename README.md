@@ -6,6 +6,22 @@ Hey, what's in a name...
 
 It isn't complete yet, but it should be functional.
 
+## 256!
+
+This is a color scheme that requires 256 colors.
+
+In your terminal, type:
+
+    $ tput colors
+
+If the output is not 256, your terminal is not configured for 256 colors.
+
+in vim enter command mode, and set:
+
+    :set t_Co
+
+If the output is not 256, vim is not configured for 256 colors.
+
 ## Installation
 
 ### Pathogen
@@ -16,7 +32,7 @@ The preferred method of installation is [Pathogen][vim-pathogen].
 
 ### Legacy
 
-Alternatively, copy ```pointless.vim``` to ```~/.vim/colors```
+Alternatively, copy ```pointless.vim``` to ```~/.vim/colors/```
 
 ## Screenshot
 
