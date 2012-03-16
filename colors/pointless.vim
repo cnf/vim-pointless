@@ -35,7 +35,7 @@ hi Cursor       guifg=#002B36 ctermfg=235  guibg=#839496 ctermbg=246  gui=NONE c
 hi CursorLine   guifg=NONE    ctermfg=NONE guibg=#002B36 ctermbg=235  gui=NONE cterm=NONE
 hi SpecialKey   guifg=#657B83 ctermfg=66   guibg=#073642 ctermbg=237  gui=NONE cterm=NONE
 hi NonText      guifg=#073642 ctermfg=237  guibg=NONE    ctermbg=NONE gui=NONE cterm=NONE
-hi Folded       guifg=#808080 ctermfg=244  guibg=#ECECEC ctermbg=255  gui=BOLD cterm=BOLD
+hi Folded       guifg=#92B4D9 ctermfg=110  guibg=NONE    ctermbg=NONE gui=BOLD cterm=BOLD
 hi markdownCode guifg=#CA1F7B ctermfg=162  guibg=NONE    ctermbg=NONE gui=NONE cterm=NONE
 
 hi link String            Constant
