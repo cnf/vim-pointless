@@ -26,9 +26,10 @@ If the output is not 256, vim is not configured for 256 colors.
 
 ### Pathogen
 
-The preferred method of installation is [Pathogen][vim-pathogen].
+The preferred method of installation is either [Pathogen][vim-pathogen] or [Vundle][vim-vundle].
 
 [vim-pathogen]:https://github.com/tpope/vim-pathogen 
+[vim-vundle]:https://github.com/gmarik/vundle
 
 ### Legacy
 
