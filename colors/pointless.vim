@@ -29,7 +29,7 @@ hi Special      guifg=#9400D3 ctermfg=92   guibg=NONE    ctermbg=NONE gui=NONE c
 hi Underlined   guifg=#9400D3 ctermfg=92   guibg=NONE    ctermbg=NONE gui=NONE cterm=NONE
 hi Ignore       guifg=#FF6E00 ctermfg=202  guibg=#FF0000 ctermbg=196  gui=NONE cterm=NONE
 hi Error        guifg=#CD0000 ctermfg=160  guibg=NONE    ctermbg=NONE gui=NONE cterm=NONE
-hi Todo         guifg=#002B36 ctermfg=235  guibg=#FDE719 ctermbg=220  gui=NONE cterm=NONE
+hi Todo         guifg=#FF0000 ctermfg=196  guibg=NONE ctermbg=NONE  gui=NONE cterm=NONE
 hi LineNr       guifg=#073642 ctermfg=242  guibg=#EEE8D5 ctermbg=234  gui=NONE cterm=NONE
 hi Cursor       guifg=#002B36 ctermfg=235  guibg=#839496 ctermbg=246  gui=NONE cterm=NONE
 hi CursorLine   guifg=NONE    ctermfg=NONE guibg=#002B36 ctermbg=235  gui=NONE cterm=NONE
